@@ -1,1 +1,2 @@
-A starting point for the anding page of Code for Pakistan website.
+#Code For Pakistan | Civic Innovation Lab 
+A starting point for the landing page of Code for Pakistan website.
